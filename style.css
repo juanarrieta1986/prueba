@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+.parrafo {
+    background-color: lightgreen;
+    width: 50%;
+    height: 200px;
+}
+#parrafo-1 {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
